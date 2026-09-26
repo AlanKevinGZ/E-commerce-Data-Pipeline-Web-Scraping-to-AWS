@@ -1,0 +1,8 @@
+# Astro Runtime includes the following pre-installed providers packages: https://www.astronomer.io/docs/astro/runtime-image-architecture#provider-packages
+scrapy>=2.11
+boto3>=1.34
+pyspark>=3.5
+python-dotenv>=1.0
+pillow>=10.0
+pyarrow>=15.0
+requests>=2.31
